@@ -10,14 +10,14 @@ https://github.com/UDKodr/2-Bonus-Layout-Theme-Switcher-Combo-Ionic-Vue
 
 
 <h3>Check out these other related repos</h3>
-Theme Switcher - https://github.com/UDKodr/1-Theme-Switcher-Ionic-Vue/
-Theme Switcher Combo - https://github.com/UDKodr/2-Layout-Switcher-Ionic-Vue
+Theme Switcher - https://github.com/UDKodr/1-Theme-Switcher-Ionic-Vue/</br>
+Theme Switcher Combo - https://github.com/UDKodr/2-Layout-Switcher-Ionic-Vue/</br>
 
 <h3>UDKodr Links</h3>
-Website - https://www.UDKodr.com
-GitHub - https://github.com/UDKodr
-Youtube - https://www.youtube.com/channel/UCWHcWrwsmG-7H1_fjQAwU-w
-Twitter - https://twitter.com/UDKodr
-Patreon - https://www.patreon.com/UDKodr
-Play Store - https://play.google.com/store/apps/dev?id=4828316913700075617
+Website - https://www.UDKodr.com/</br>
+GitHub - https://github.com/UDKodr/</br>
+Youtube - https://www.youtube.com/channel/UCWHcWrwsmG-7H1_fjQAwU-w/</br>
+Twitter - https://twitter.com/UDKodr/</br>
+Patreon - https://www.patreon.com/UDKodr/</br>
+Play Store - https://play.google.com/store/apps/dev?id=4828316913700075617/</br>
 UDKodr Logo is a Trademark of UDKodr LLC and Copywrite 2022 and may not be used
